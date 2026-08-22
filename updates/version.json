@@ -1,6 +1,6 @@
-﻿{
+{
   "version": "1.0.1",
-  "package": "ChequeAutomationApp-v1.0.1.zip",
+  "package": "https://github.com/aramserri/bapp-update/releases/download/v1.0.1/ChequeAutomationApp-v1.0.1.zip",
   "sha256": "30FB883479A5AE4880874819AFB7A56F3C6E3409F471B8009C6C7EEDD0285BAF",
   "notes": "Update release"
 }
